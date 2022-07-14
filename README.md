@@ -119,10 +119,10 @@ Certificados e competências |  Сертификаты и компетенции
 - Telemarketing - Ativo / Receptivo InterNews Computadores LTDA
 
 #### Habilidades
-– Influência
-– Comunicação
-– Sociabilidade
-– Facilitação
-– Iniciativa
-– Planejamento e Organização
-– Suporte
+- Influência
+- Comunicação
+- Sociabilidade
+- Facilitação
+- Iniciativa
+- Planejamento e Organização
+- Suporte
